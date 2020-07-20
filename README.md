@@ -1,6 +1,6 @@
-###Pembuat {{ Saiful Nakeusa }}
+### Pembuat {{ Saiful Nakeusa }}
 
-##Cara Membuat Navbar dengan menggunakan React js yang merupakan framework bahasa pemrograman
+## Cara Membuat Navbar dengan menggunakan React js yang merupakan framework bahasa pemrograman
 dari Javascript.
 
 Bagaimana Cara Membuatnya ?
